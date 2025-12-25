@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://luminous-sundae-2619f7.netlify.app/sitemap.xml
